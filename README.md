@@ -83,7 +83,7 @@ This is a simple RESTful API for managing books. It allows users to perform CRUD
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Akshay-Anilkumar/books-app.git
 
 2. Install the required dependencies:
 
